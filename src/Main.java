@@ -4,7 +4,7 @@ public class Main {
         //task2();
         //task3();
         //task4();
-        taskOnePartTwo();
+        //taskOnePartTwo();
 
     }
     public static void task1(){
