@@ -5,7 +5,8 @@ public class Main {
         //task3();
         //task4();
         //taskOnePartTwo();
-        taskTwoPartTwo();
+        //taskTwoPartTwo();
+        taskThreePartTwo();
 
     }
     public static void task1(){
@@ -39,6 +40,11 @@ public class Main {
     }
     public static void taskTwoPartTwo(){
         for (int i = 7; i <= 98; i += 7){
+            System.out.println(i);
+        }
+    }
+    public static void taskThreePartTwo(){
+        for (int i = 1; i <= 512; i *= 2){
             System.out.println(i);
         }
     }
