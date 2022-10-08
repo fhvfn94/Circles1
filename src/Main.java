@@ -5,6 +5,7 @@ public class Main {
         //task3();
         //task4();
         //taskOnePartTwo();
+        taskTwoPartTwo();
 
     }
     public static void task1(){
@@ -36,6 +37,8 @@ public class Main {
             }
         }
     }
+    public static void taskTwoPartTwo(){
 
+    }
 
 }
